@@ -1,0 +1,8 @@
+An example picture from the apples dataset depicting a fresh_apple
+An example picture from the apples dataset depicting a fresh_apple, and a rotten_apple
+An example picture from the apples dataset depicting a fresh_apple, and rotten_apples
+An example picture from the apples dataset depicting fresh_apples
+An example picture from the apples dataset depicting fresh_apples, and a rotten_apple
+An example picture from the apples dataset depicting fresh_apples, and rotten_apples
+An example picture from the apples dataset depicting a rotten_apple
+An example picture from the apples dataset depicting rotten_apples
